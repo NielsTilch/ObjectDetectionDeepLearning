@@ -4,7 +4,7 @@ Projet du cours d'Intelligence Artificielle dans le cadre de la formation de 2e 
 
 ## Description du Projet
 
-Le projet a pour but de créé un ou plusieurs réseaux de neurones et de comparer les classifications. Plusieurs démarches ont été testés pour la classifications :
+Le projet a pour but de créer un ou plusieurs réseaux de neurones et de comparer les classifications. Plusieurs démarches ont été testé pour la classification :
 * Observer comment un pré-traitement au niveau gris (passage d'une image en couleur en image en noir et blanc) influe sur la classication.
 * Observer comment réagissent les réseaux de neurones sur les différents types de données.
 * Observer l'influence le nombre de fois que le réseau de neurones sur la classification.
